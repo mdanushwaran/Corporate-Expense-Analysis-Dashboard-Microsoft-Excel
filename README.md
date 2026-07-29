@@ -142,7 +142,8 @@ Vendor-wise Expense Analysis
 Payment Method Distribution
 Approval Status Overview
 Interactive Filtering with Slicers
-💡 Business Insights
+
+**💡 Business Insights**
 
 Based on the dashboard, management can quickly identify:
 
